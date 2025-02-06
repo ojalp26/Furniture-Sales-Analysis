@@ -2,7 +2,7 @@
 
 <br>
 
-## Project Overview
+## Project Overview :
 
 This repository contains a **Power BI dashboard** built to analyze and visualize furniture sales data. The dashboard provides insights into product performance, customer segmentation, and profitability. It also offers actionable recommendations for sales optimization and product improvements based on the analysis.
 
@@ -23,7 +23,7 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
 
 ---
 
-## Data Analysis Process
+## Data Analysis Process :
 
 1. **Data Onboarding**: 
    - Imported data from **Kaggle** (furniture sales dataset).
@@ -40,7 +40,7 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
 
 ---
 
-## LinkedIn Dashboard Video
+## LinkedIn Dashboard Video :
 
 Check out the **[LinkedIn post](your-link-here)** showcasing the Power BI dashboard in action! The post includes a video walkthrough of the dashboard and its interactive features.
 
