@@ -1,6 +1,6 @@
 # Furniture Sales Dashboard Analysis
 
----
+
 
 ## Project Overview
 
