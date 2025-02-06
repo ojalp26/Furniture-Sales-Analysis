@@ -42,6 +42,6 @@ This repository contains a **Power BI dashboard** built to analyze and visualize
 
 ## LinkedIn Dashboard Video :
 
-Check out the **[LinkedIn post](your-link-here)** showcasing the Power BI dashboard in action! The post includes a video walkthrough of the dashboard and its interactive features.
+Check out the **[LinkedIn post](https://www.linkedin.com/posts/ojal-paturday-7246ab321_powerbi-dataanalysis-businessintelligence-activity-7293314617492041729-Qmot?utm_source=share&utm_medium=member_desktop)** showcasing the Power BI dashboard in action! The post includes a video walkthrough of the dashboard and its interactive features.
 
 ---
